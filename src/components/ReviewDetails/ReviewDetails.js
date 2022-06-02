@@ -6,7 +6,7 @@ const ReviewDetails = (props) => {
   return (
     <div className="col review-details-container">
       <img
-        className="img-fluid w-25"
+        className="img-fluid w-25 rounded-circle"
         src={require(`../../images/${img}`)}
         alt=""
       />

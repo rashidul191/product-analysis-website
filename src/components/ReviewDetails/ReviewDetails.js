@@ -10,7 +10,9 @@ const ReviewDetails = (props) => {
         alt=""
       />
       <h4>{name}</h4>
-      <p>Rating: {rating}</p>
+      <p>
+        Rating: <span className="text-warning">{rating}</span>
+      </p>
       <p>{review}</p>
     </div>
   );

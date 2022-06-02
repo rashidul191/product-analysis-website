@@ -1,6 +1,5 @@
 import React from "react";
 import CustomLink from "../CustomLink/CustomLink";
-
 const Header = () => {
   return (
     <div>
@@ -34,9 +33,6 @@ const Header = () => {
                   DASHBOARD
                 </CustomLink>
               </li>
-
-              
-
               <li className="nav-item">
                 <CustomLink className="nav-link" to="/about">
                   ABOUT
@@ -44,7 +40,7 @@ const Header = () => {
               </li>
               <li className="nav-item">
                 <CustomLink className="nav-link" to="/question">
-                    QUESTION
+                  QUESTION
                 </CustomLink>
               </li>
             </ul>

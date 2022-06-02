@@ -12,7 +12,6 @@ function App() {
   return (
     <div>
       <Header></Header>
-
       <Routes>
         <Route path="/" element={<Home />}></Route>
         <Route path="/home" element={<Home />}></Route>
@@ -20,9 +19,6 @@ function App() {
         <Route path="/dashboard" element={<Dashboard />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/question" element={<Question />}></Route>
-
-
-
         <Route path="/*" element={<NotFound />}></Route>
       </Routes>
     </div>

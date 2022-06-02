@@ -24,7 +24,6 @@ const Question = () => {
           found on the Feedback Documentation page.
         </p>
       </div>
-
       <div>
         <h4>Q2. what is segment tag ?</h4>
         <p>
@@ -39,7 +38,6 @@ const Question = () => {
           <span className="text-warning">{section}</span>
         </p>
       </div>
-
       <div>
         <h4> Q1. Inline element VS Inline block elements ?</h4>
         <p>
@@ -61,7 +59,6 @@ const Question = () => {
           The inline element does not start on a new line and only occupies its
           required width. We cannot set width or height
         </p>
-
         <p>inline block element have a monte tag like</p>
         <ul>
           <li>div</li>

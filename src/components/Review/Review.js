@@ -4,7 +4,6 @@ import ReviewDetails from "../ReviewDetails/ReviewDetails";
 
 const Review = () => {
   const [reviews, setReviews] = useReview();
-//   console.log(reviews);
   return (
     <div className="container">
 

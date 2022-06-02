@@ -4,10 +4,10 @@ import CustomLink from "../CustomLink/CustomLink";
 const Header = () => {
   return (
     <div>
-      <nav class="navbar navbar-expand-lg bg-light">
-        <div class="container-fluid">
+      <nav className="navbar navbar-expand-lg bg-light">
+        <div className="container-fluid">
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNav"
@@ -15,35 +15,35 @@ const Header = () => {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav mx-auto">
-              <li class="nav-item">
-                <CustomLink class="nav-link" to="/">
+          <div className="collapse navbar-collapse" id="navbarNav">
+            <ul className="navbar-nav mx-auto">
+              <li className="nav-item">
+                <CustomLink className="nav-link" to="/">
                   HOME
                 </CustomLink>
               </li>
-              <li class="nav-item">
-                <CustomLink class="nav-link" to="/review">
+              <li className="nav-item">
+                <CustomLink className="nav-link" to="/review">
                   REVIEW
                 </CustomLink>
               </li>
-              <li class="nav-item">
-                <CustomLink class="nav-link" to="/dashboard">
+              <li className="nav-item">
+                <CustomLink className="nav-link" to="/dashboard">
                   DASHBOARD
                 </CustomLink>
               </li>
 
               
 
-              <li class="nav-item">
-                <CustomLink class="nav-link" to="/about">
+              <li className="nav-item">
+                <CustomLink className="nav-link" to="/about">
                   ABOUT
                 </CustomLink>
               </li>
-              <li class="nav-item">
-                <CustomLink class="nav-link" to="/question">
+              <li className="nav-item">
+                <CustomLink className="nav-link" to="/question">
                     QUESTION
                 </CustomLink>
               </li>

@@ -2,7 +2,6 @@ import React from "react";
 
 const ReviewDetails = (props) => {
   const { name, review, rating, img } = props.review;
-  console.log(img);
   return (
     <div className="col review-details-container">
       <img

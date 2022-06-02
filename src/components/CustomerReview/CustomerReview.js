@@ -9,7 +9,7 @@ const CustomerReview = () => {
     <div>
       <h1 className="text-center">Customer Review</h1>
       <div className="row row-cols-1 row-cols-md-3 g-4 mt-3 text-center">
-        {reviews.map((review) => (
+        {reviews.slice(0, 3).map((review) => (
           <ReviewDetails key={review.id} review={review}></ReviewDetails>
         ))}
       </div>

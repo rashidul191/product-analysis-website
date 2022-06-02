@@ -14,9 +14,10 @@ const CustomerReview = () => {
         ))}
       </div>
       <div className="text-center">
-        <button className="btn btn-warning mb-4">
-          <Link to="/review">See all Review</Link>
-        </button>
+        <Link to="/review">
+          {" "}
+          <button className="btn btn-warning mb-4">See all Review </button>{" "}
+        </Link>
       </div>
     </div>
   );

@@ -1,6 +1,6 @@
 # Customer-Review
 
-This Project Like link [Click Here](https://customs-review.netlify.app/).
+This Project Like link [Click Here](https://customs-review.netlify.app/) : https://customs-review.netlify.app/
 
 ## About Project
 

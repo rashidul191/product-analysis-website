@@ -34,9 +34,17 @@ const Header = () => {
                   DASHBOARD
                 </CustomLink>
               </li>
+
+              
+
               <li class="nav-item">
                 <CustomLink class="nav-link" to="/about">
                   ABOUT
+                </CustomLink>
+              </li>
+              <li class="nav-item">
+                <CustomLink class="nav-link" to="/question">
+                    QUESTION
                 </CustomLink>
               </li>
             </ul>

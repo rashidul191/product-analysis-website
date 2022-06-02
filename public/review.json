@@ -2,43 +2,43 @@
   {
     "id": "111th",
     "name": "Tom Hand",
-    "img": "picture-1",
+    "img": "picture-1.png",
     "rating": "4.5",
-    "review": "I received the laptop and immediately started to set it up. Upon entering my info I noticed that the D key was not working. I put in a call to Acer tech support and have to send the laptop in to get repaired... the brand new out of the box product."
+    "review": "I received the laptop and immediately started to set it up. Upon entering my info I noticed that the D key was not working. I put in a call to Acer tech support and have to send the laptop in to get repaired..."
   },
   {
     "id": "112sw",
     "name": "S Wang",
-    "img": "picture-2",
+    "img": "picture-2.png",
     "rating": "4.2",
     "review": "Tried to install a 2.5 inches HDD from my old laptop. Had no luck because 9.5mm thick HDD is too much for the computer. Could not tight up the computer back cover but it will clamp the HDD and prevent it from working."
   },
   {
     "id": "113rr",
     "name": "Raúl Rivera",
-    "img": "picture-3",
+    "img": "picture-3.jpg",
     "rating": "3.0",
-    "review": "De verdad que esta computadora me ha soprendido, anteriormente tenia una laptop Thunderobot con una RTX 3060 comprada en Ali la cual la vendi por que alguien me la quiso comprar y entonces al andar buscando otra laptop me tope con esta la cual la recomendaban en una pagina de expertos en gaming, el dia que la compra estaba en 19,999 , dije bueno ok , 12 mil"
+    "review": "De verdad que esta computadora me ha soprendido, anteriormente tenia una laptop Thunderobot con una RTX 3060 comprada en Ali la cual la vendi por que alguien me la quiso comprar y entonces"
   },
   {
     "id": "114cf",
     "name": "Carlos F",
-    "img": "picture-4",
+    "img": "picture-4.jpg",
     "rating": "3.5",
     "review": "Muy buena laptop, para jugar está increíble, quizá no tiene tanta memoria pero se puede expandir. Lo único  fue que me tardo 1mes en llegar, parecía de Ali expréss Haha, 15 días en confirmar y 15 en llegar aún habiendo pagado priority."
   },
   {
     "id": "115lk",
     "name": "Lolo King",
-    "img": "picture-5",
+    "img": "picture-5.png",
     "rating": "4.5",
-    "review": "I received the laptop and immediately started to set it up. Upon entering my info I noticed that the D key was not working. I put in a call to Acer tech support and have to send the laptop in to get repaired... the brand new out of the box product. Now I have to repackage everything, wait for a shipping label, drop it off and wait 7-10 business days"
+    "review": "I received the laptop and immediately started to set it up. Upon entering my info I noticed that the D key was not working. I put in a call to Acer tech support and have to send the laptop"
   },
   {
     "id": "116jh",
     "name": "Jennifer Hand",
-    "img": "picture-6",
+    "img": "picture-6.jpg",
     "rating": "4.0",
-    "review": "Parents bought this for my sister and this is perfect for her to start on it's good for light-medium gaming. With school converting to online it's perfect as well. This computer also has good battery life away from the charger while might use with heavy use not so much it's good though"
+    "review": "Parents bought this for my sister and this is perfect for her to start on it's good for light-medium gaming. With school converting to online it's perfect as well. This computer also has good h"
   }
 ]

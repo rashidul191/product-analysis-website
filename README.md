@@ -1,5 +1,37 @@
-# Customs-Review
+# Customer-Review
 This Project Like link [Click Here](https://customs-review.netlify.app/).
+
+
+## About Project
+My project name is Customer Reviews. This project use create react app and react react router, react rechart, custom link, custom hook etc....
+
+ ### Create React App
+1. npx create-react-app customs-review
+2. cd customs-review
+3. npm start (run project on browser)
+
+ ### React router
+1. $ npm install react-router-dom@6
+Once your project is set up and React Router is installed as a dependency, open the src/index.js in your text editor. Import BrowserRouter from react-router-dom near the top of your file and wrap your app in a <BrowserRouter>:
+
+   <BrowserRouter>
+      <App />
+    </BrowserRouter>
+
+Now you can use React Router anywhere in your app! For a simple example, open src/App.js and replace the default markup with some routes:
+ <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="about" element={<About />} />
+      </Routes> <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="about" element={<About />} />
+      </Routes>
+      
+## Review
+
+## Dashboard
+
+### Question
 
 
 

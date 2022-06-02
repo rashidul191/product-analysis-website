@@ -9,7 +9,7 @@ import Review from "./components/Review/Review";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Header></Header>
 
       <Routes>

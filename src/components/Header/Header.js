@@ -4,16 +4,6 @@ import CustomLink from "../CustomLink/CustomLink";
 const Header = () => {
   return (
     <div>
-      {/* 
-          <nav>
-              <CustomLink to="/">Home</CustomLink>
-              <CustomLink to="/review">Review</CustomLink>
-              <CustomLink to="/dashboard">Dashboard</CustomLink>
-              <CustomLink to="/about">About</CustomLink>
-
-          </nav>
- */}
-
       <nav class="navbar navbar-expand-lg bg-light">
         <div class="container-fluid">
           <button
@@ -31,22 +21,22 @@ const Header = () => {
             <ul class="navbar-nav mx-auto">
               <li class="nav-item">
                 <CustomLink class="nav-link" to="/">
-                  Home
+                  HOME
                 </CustomLink>
               </li>
               <li class="nav-item">
                 <CustomLink class="nav-link" to="/review">
-                  Review
+                  REVIEW
                 </CustomLink>
               </li>
               <li class="nav-item">
                 <CustomLink class="nav-link" to="/dashboard">
-                  Dashboard
+                  DASHBOARD
                 </CustomLink>
               </li>
               <li class="nav-item">
                 <CustomLink class="nav-link" to="/about">
-                  About
+                  ABOUT
                 </CustomLink>
               </li>
             </ul>

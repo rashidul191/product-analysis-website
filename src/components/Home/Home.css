@@ -1,0 +1,9 @@
+.laptop-container img{
+    width: 500px;
+}
+
+@media only screen and (max-width: 400px) {
+    .laptop-container img{
+        width: 200px;
+    }
+  }
